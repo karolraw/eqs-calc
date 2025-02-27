@@ -1,0 +1,110 @@
+[
+  {
+    "name": "triethylamine",
+    "category": "liquid",
+    "molar mass": 101.19,
+    "density": 0.73,
+    "image": "Triethylamine.PNG"
+  },
+  {
+    "name": "pyridine",
+    "category": "liquid",
+    "molar mass": 79.1,
+    "density": 0.98,
+    "image": "Pyridine.png"
+  },
+  {
+    "name": "formalin",
+    "category": "percent solution",
+    "molar mass": 30.03,
+    "solution concentration": 37,
+    "solution density": 1.01,
+    "image": "Formaldehyde.PNG"
+  },
+  {
+    "name": "ammonia solution",
+    "category": "percent solution",
+    "molar mass": 17.03,
+    "solution concentration": 25,
+    "solution density": 0.91,
+    "image": "Ammonia solution.PNG"
+  },
+  {
+    "name": "2M HCl",
+    "category": "molar solution",
+    "molar mass": 36.46,
+    "solution concentration": 2,
+    "image": "Hydrochloride.PNG"
+  },
+  {
+    "name": "1M H2SO4",
+    "category": "molar solution",
+    "molar mass": 98.08,
+    "solution concentration": 1,
+    "image": "Sulfuric acid.PNG"
+  },
+  {
+    "name": "caffeine",
+    "category": "solid",
+    "molar mass": 194.19,
+    "image": "caffeine.png"
+  },
+  {
+    "name": "ascorbic acid (Vitamin C)",
+    "category": "solid",
+    "molar mass": 176.13,
+    "image": "Ascorbic_acid.png"
+  },
+  {
+    "name": "Sodium triacetoxyborohydride (NaBH(OAc)3)",
+    "category": "solid",
+    "molar mass": 211.94,
+    "image": "NaBH(OAc)3.png"
+  },
+  {
+    "name": "1,1\u2032-Ferrocenedicarboxaldehyde",
+    "category": "solid",
+    "molar mass": 242.05,
+    "image": "1,1\u2032-Ferrocenedicarboxaldehyde.png"
+  },
+  {
+    "name": "N-Allylmethylamine",
+    "category": "liquid",
+    "molar mass": 71.12,
+    "density": 0.74,
+    "image": "N-Allylmethylamine.png"
+  },
+  {
+    "name": "acetone",
+    "category": "liquid",
+    "molar mass": 58.08,
+    "density": 0.78,
+    "image": "Acetone.png"
+  },
+  {
+    "name": "Methylamine hydrochloride",
+    "category": "solid",
+    "molar mass": 67.52,
+    "image": "Methylamine hydrochloride.png"
+  },
+  {
+    "name": "Methylamine solution, 2.0 M in THF",
+    "category": "molar solution",
+    "molar mass": 31.06,
+    "solution concentration": 2.0,
+    "image": "Methylamine.png"
+  },
+  {
+    "name": "methyl 4-nitrobenzoate",
+    "category": "solid",
+    "molar mass": 181.15,
+    "image": "methyl 4-nitrobenzoate.png"
+  },
+  {
+    "name": "NaOH, 1M sol",
+    "category": "molar solution",
+    "molar mass": 40.0,
+    "solution concentration": 1.0,
+    "image": "sodium hydroxide.png"
+  }
+]
