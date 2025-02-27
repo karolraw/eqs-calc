@@ -1,8 +1,8 @@
 # Description
 
 <p align="center">
-  <img src="main/eqs-calc-tab1.png" width="45%">
-  <img src="main/eqs-calc-tab2.png" width="45%">
+  <img src="main/eqs-calc-tab1.png" width="55%">
+  <img src="main/eqs-calc-tab2.png" width="55%">
 </p>
 
 This program calculates how much of a particular reagent needs to be measured to set up a chemical reaction based on the initial amount of the starting material (limiting reagent) and the equivalents. The user selects the reagents, enters the initial amount of the first reagent and the equivalents for the rest, then clicks the "Calculate" button. The required amounts for the reaction are displayed in the "Results" window.
